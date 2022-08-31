@@ -1,4 +1,4 @@
-# todo
+# Vue Basic ToDo Example (Vue 3 + Pinia + Tailwind )
 
 This template should help get you started developing with Vue 3 in Vite.
 
